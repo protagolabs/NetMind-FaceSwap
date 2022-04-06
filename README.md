@@ -33,7 +33,7 @@ python demo_face2face.py
 
 ## showcase
 
-![showcase](https://github.com/protagolabs/NetMind-FacialAttributeEditing/blob/main/demo_stgan.gif)
+![showcase](https://github.com/protagolabs/NetMind-FaceSwap/blob/main/face2face.gif)
 
 from left -> right: Input, landmarks, mask, synthesis, output
 
